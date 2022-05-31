@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JoaoPedro6017
+- 👀 I’m interested in software analysis.
+- 🌱 I’m currently graduating in High School.
+- 💞️ I’m looking to collaborate on projects working on SQL Server
+- 📫 How to reach me : https://www.linkedin.com/in/joão-pedro-cruz-borges-47161023b/
